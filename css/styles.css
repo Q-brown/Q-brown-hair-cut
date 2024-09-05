@@ -1,0 +1,19 @@
+.you{
+    background-image: url("/images/back\ ground.jpg");
+}
+.two{
+    background-color: dimgrey;
+}
+p{
+ font-size:60px;
+    color:darkblue;
+}
+h3{
+    font-size: 40px;
+    text-align: center;
+    color: blue;
+}
+h1{
+    text-align: center;
+    color:darkblue;
+}
